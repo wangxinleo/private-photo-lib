@@ -26,7 +26,8 @@
     },
     methods:{
       barClick(index){
-        this.currentIndex = index
+        this.currentIndex = index;
+        this.$emit('barClick',this.currentIndex);
       }
     }
   }
