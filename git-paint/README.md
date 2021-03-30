@@ -2,15 +2,9 @@
 
 The art of github contributions heatmap.
 
-ex. https://github.com/qinshuang1998?tab=overview&from=1998-01-01&to=1998-12-31
-
-![heatmap](https://inews.gtimg.com/newsapp_ls/0/11799836198/0)
-
 Step1. Open the `./designer/index.html`
 
 Step2. Custom the start and end time you like, then design your artwork by clicking the mouse on heatmap.
-
-![designer](https://inews.gtimg.com/newsapp_ls/0/11799850781/0)
 
 Step3. Output the map file and run the python script with this file. You need to change some parameters yourself.
 
